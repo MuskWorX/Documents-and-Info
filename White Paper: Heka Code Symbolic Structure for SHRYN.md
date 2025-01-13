@@ -1,7 +1,7 @@
 # **White Paper: Heka Code Symbolic Structure**
 
 ## **Abstract**
-This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the [MetaFlesh] protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, SHRYN provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem market playground.
+This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the [MetaFlesh] protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, [MetaFlesh] provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem market playground.
 
 ---
 
