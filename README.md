@@ -77,7 +77,7 @@ We are always looking for collaborators, innovators, and visionaries. Connect wi
 ---
 
 ## 📫 **Contact Us**
-Reach out through our GitHub or visit [Warp Industries](https://warpindustries.example) for more details about our products and research.
+Reach out through our GitHub or visit [Warp Industries]) for more details about our products and research.
 
 ---
 
