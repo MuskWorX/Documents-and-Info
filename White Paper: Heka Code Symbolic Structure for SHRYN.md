@@ -1,7 +1,7 @@
 # **White Paper: Heka Code Symbolic Structure**
 
 ## **Abstract**
-This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the [MetaFlesh] protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, SHRYN provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem.
+This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the [MetaFlesh] protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, SHRYN provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem market playground.
 
 ---
 
@@ -10,7 +10,7 @@ This white paper presents a comprehensive framework for the Heka Code Symbolic S
 ### **1.1 Background**
 Heka, the ancient Egyptian concept of magic and universal energy, is often described as the binding force that unites creation with intention. [MetaFlesh] leverages this ancient philosophy and incorporates it into modern frameworks of symbolic processing, intention amplification, and quantum resonance systems. By integrating symbolic structures into computational methodologies, [MetaFlesh] bridges the gap between esotericism and scientific discovery.
 
-### **1.2 Purpose of SHRYN**
+### **1.2 Purpose of Metaflesh**
 SHRYN aims to:
 1. Provide a symbolic computational language rooted in Heka principles.
 2. Establish a portal for intention-setting and abundance protocols.
