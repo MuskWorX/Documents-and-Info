@@ -22,3 +22,7 @@ GStreamer is used to handle real-time video and audio streaming.
 sudo apt update
 sudo apt install gstreamer1.0-tools gstreamer1.0-plugins-base \
 gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly
+
+##Example Pipeline
+
+For real-time video processing with NVIDIA DeepStream:
