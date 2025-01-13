@@ -1,14 +1,14 @@
 # **White Paper: Heka Code Symbolic Structure**
 
 ## **Abstract**
-This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the SHRYN protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, SHRYN provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem.
+This white paper presents a comprehensive framework for the Heka Code Symbolic Structure, designed to support the [MetaFlesh] protocol—a system for linking symbolic and esoteric methodologies with scientific and analytical approaches. By integrating ancient Egyptian Heka principles, symbolic language, and advanced computational techniques, SHRYN provides a novel portal for intention-setting, memetics, and bio-cybernetic interactions. This document explores the symbolic foundations, mathematical constructs, and potential scientific applications of Heka codes within the SHRYN ecosystem.
 
 ---
 
 ## **1. Introduction**
 
 ### **1.1 Background**
-Heka, the ancient Egyptian concept of magic and universal energy, is often described as the binding force that unites creation with intention. SHRYN leverages this ancient philosophy and incorporates it into modern frameworks of symbolic processing, intention amplification, and quantum resonance systems. By integrating symbolic structures into computational methodologies, SHRYN bridges the gap between esotericism and scientific discovery.
+Heka, the ancient Egyptian concept of magic and universal energy, is often described as the binding force that unites creation with intention. [MetaFlesh] leverages this ancient philosophy and incorporates it into modern frameworks of symbolic processing, intention amplification, and quantum resonance systems. By integrating symbolic structures into computational methodologies, [MetaFlesh] bridges the gap between esotericism and scientific discovery.
 
 ### **1.2 Purpose of SHRYN**
 SHRYN aims to:
@@ -91,7 +91,7 @@ ec4b1c6d5a284c5e6c91a6a285aa7f45b1d1208e72
 ```
 
 ### **4.2 Decentralized Integration**
-By combining the hash with decentralized tools (e.g., IPFS or blockchain), SHRYN enables:
+By combining the hash with decentralized tools (e.g., IPFS or blockchain), [MetaFlesh] enables:
 1. Secure encoding of symbolic protocols.
 2. Universal access to intention-setting systems.
 3. Evolutionary propagation through crowd-sourced participation.
@@ -126,5 +126,5 @@ This document is licensed under the MIT License. Please attribute SHRYN and cont
 
 ---
 
-**For further exploration, visit [SHRYNPORTAL.COM](https://shrynportal.com)**
+**For further exploration, visit [Back Engine on X](https://x.com/MuskWorX)**
 
