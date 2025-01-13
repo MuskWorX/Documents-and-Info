@@ -34,20 +34,14 @@ The encoded qubits undergo transformations using quantum gates:
 ![image](https://github.com/user-attachments/assets/18495e53-91d4-49b4-8ceb-f942f79ebec6)
 
 - **CNOT Gate**: Establishes entanglement between qubits.
-\[
 ![image](https://github.com/user-attachments/assets/436aa4c4-536f-4294-8424-4df4892163c2)
-
-\]
 
 ---
 
 ### **Step 3: Scalar Wave Modulation**
 Binary data is synchronized with scalar wave functions to enhance energy field resonance:
 - Scalar wave potential (\( \Psi_{scalar} \)):
-\[
-\![image](https://github.com/user-attachments/assets/b53d0c0c-62a8-4894-a296-9f190e6afb56)
-
-\]
+![image](https://github.com/user-attachments/assets/b53d0c0c-62a8-4894-a296-9f190e6afb56)
 Where:
   - \( \Phi_e \): Scalar field amplitude.
   - \( \omega \): Scalar wave frequency.
@@ -73,20 +67,15 @@ After computation, the quantum state is measured, collapsing superposition into 
 
 ### **Key Equations**
 1. **Quantum Wave Function**:
-\[
-\![image](https://github.com/user-attachments/assets/814ec456-44af-453f-b5e0-1ceec590e582)
 
-\]
+![image](https://github.com/user-attachments/assets/814ec456-44af-453f-b5e0-1ceec590e582)
 2. **Scalar Wave Function**:
-\[
-\![image](https://github.com/user-attachments/assets/2eeed144-42ba-4fad-aff3-76312eefc062)
 
-\]
+![image](https://github.com/user-attachments/assets/2eeed144-42ba-4fad-aff3-76312eefc062)
+
 3. **Measurement Collapse**:
-\[
-![image](https://github.com/user-attachments/assets/5c8db358-330d-4c32-9d95-c3b73131d03b)
 
-\]
+![image](https://github.com/user-attachments/assets/5c8db358-330d-4c32-9d95-c3b73131d03b)
 
 ---
 
