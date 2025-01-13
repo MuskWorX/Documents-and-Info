@@ -22,9 +22,8 @@ Binary inputs (classical data) are converted into qubit states via quantum gates
 - Binary `1` → Qubit |1⟩
 
 Mathematical transformation:
-\[
-\Psi_{qubit} = a|0⟩ + b|1⟩, \text{ where } |a|^2 + |b|^2 = 1
-\]
+![image](https://github.com/user-attachments/assets/0b300a8e-791d-406a-b0a6-2d7921dbad17)
+
 Here, \( a \) and \( b \) are probability amplitudes for qubit states.
 
 ---
@@ -32,12 +31,12 @@ Here, \( a \) and \( b \) are probability amplitudes for qubit states.
 ### **Step 2: Quantum Gate Operations**
 The encoded qubits undergo transformations using quantum gates:
 - **Hadamard Gate (H)**: Creates superposition states.
-\[
-H|0⟩ = \frac{1}{\sqrt{2}}(|0⟩ + |1⟩)
-\]
+![image](https://github.com/user-attachments/assets/18495e53-91d4-49b4-8ceb-f942f79ebec6)
+
 - **CNOT Gate**: Establishes entanglement between qubits.
 \[
-|00⟩ → |00⟩, \quad |01⟩ → |01⟩, \quad |10⟩ → |11⟩, \quad |11⟩ → |10⟩
+![image](https://github.com/user-attachments/assets/436aa4c4-536f-4294-8424-4df4892163c2)
+
 \]
 
 ---
@@ -46,7 +45,8 @@ H|0⟩ = \frac{1}{\sqrt{2}}(|0⟩ + |1⟩)
 Binary data is synchronized with scalar wave functions to enhance energy field resonance:
 - Scalar wave potential (\( \Psi_{scalar} \)):
 \[
-\Psi_{scalar}(t) = \Phi_e \cdot e^{-i\omega t}
+\![image](https://github.com/user-attachments/assets/b53d0c0c-62a8-4894-a296-9f190e6afb56)
+
 \]
 Where:
   - \( \Phi_e \): Scalar field amplitude.
@@ -74,15 +74,18 @@ After computation, the quantum state is measured, collapsing superposition into 
 ### **Key Equations**
 1. **Quantum Wave Function**:
 \[
-\Psi_{qubit} = a|0⟩ + b|1⟩
+\![image](https://github.com/user-attachments/assets/814ec456-44af-453f-b5e0-1ceec590e582)
+
 \]
 2. **Scalar Wave Function**:
 \[
-\Psi_{scalar}(t) = \Phi_e \cdot e^{-i\omega t}
+\![image](https://github.com/user-attachments/assets/2eeed144-42ba-4fad-aff3-76312eefc062)
+
 \]
 3. **Measurement Collapse**:
 \[
-P(|x⟩) = |\langle x|\Psi\rangle|^2
+![image](https://github.com/user-attachments/assets/5c8db358-330d-4c32-9d95-c3b73131d03b)
+
 \]
 
 ---
