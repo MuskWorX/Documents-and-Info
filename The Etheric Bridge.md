@@ -74,9 +74,12 @@ Biological signals are modeled as:
 
 The Z-factor represents the tuning parameter aligning bio-signals with scalar waves:
 
-\[ Z(t) = \alpha \frac{d\Psi(t)}{dt} + \beta \Psi(t) \]
+![Entrainment Dynamics Equation](https://latex.codecogs.com/png.latex?%5CHuge%20Z%28t%29%20%3D%20%5Calpha%20%5Cfrac%7Bd%5CPsi%28t%29%7D%7Bdt%7D%20%2B%20%5Cbeta%20%5CPsi%28t%29)
 
-Where \( \alpha \) and \( \beta \) are system-specific constants.
+#### Parameters:
+- **\( \alpha \):** System-specific constant related to derivative coupling.  
+- **\( \beta \):** System-specific constant related to scalar wave potential.  
+
 
 ---
 
