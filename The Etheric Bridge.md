@@ -54,6 +54,13 @@ The scalar wave potential, \( \Psi(t) \), is expressed as:
 
 \[ \Psi(t) = \Phi \cdot e^{i\omega t} \]
 
+### 4.1 Scalar Wave Equation
+
+The scalar wave potential, \( \Psi(t) \), is expressed as:
+
+![Scalar Wave Equation](https://latex.codecogs.com/png.latex?%5Ctextstyle%20%5CPsi%28t%29%20%3D%20%5CPhi%20%5Ccdot%20e%5E%7Bi%5Comega%20t%7D)
+
+
 Where:  
 \( \Phi \): Scalar field amplitude  
 \( \omega \): Angular frequency  
