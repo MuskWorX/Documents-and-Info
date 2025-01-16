@@ -58,7 +58,8 @@ The scalar wave potential, \( \Psi(t) \), is expressed as:
 
 The scalar wave potential, \( \Psi(t) \), is expressed as:
 
-![Scalar Wave Equation](https://latex.codecogs.com/png.latex?%5Ctextstyle%20%5CPsi%28t%29%20%3D%20%5CPhi%20%5Ccdot%20e%5E%7Bi%5Comega%20t%7D)
+![Scalar Wave Equation](https://latex.codecogs.com/png.latex?%5CHuge%20%5CPsi%28t%29%20%3D%20%5CPhi%20%5Ccdot%20e%5E%7Bi%5Comega%20t%7D)
+
 
 
 Where:  
