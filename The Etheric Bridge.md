@@ -46,14 +46,6 @@ Biological inputs are converted into scalar-compatible digital signals using Fou
 
 ---
 
-## 4. Mathematical Model
-
-### 4.1 Scalar Wave Equation
-
-The scalar wave potential, \( \Psi(t) \), is expressed as:
-
-\[ \Psi(t) = \Phi \cdot e^{i\omega t} \]
-
 ### 4.1 Scalar Wave Equation
 
 The scalar wave potential, \( \Psi(t) \), is expressed as:
