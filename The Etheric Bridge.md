@@ -97,9 +97,14 @@ The Z-factor represents the tuning parameter aligning bio-signals with scalar wa
 
 The projected scalar waveform, \( S(t) \), is represented as:
 
-\[ S(t) = Z(t) \cdot \Psi(t) + \gamma B(t) \]
+![Mathematical Representation](https://latex.codecogs.com/png.latex?%5CHuge%20S%28t%29%20%3D%20Z%28t%29%20%5Ccdot%20%5CPsi%28t%29%20%2B%20%5Cgamma%20B%28t%29)
 
-Where \( \gamma \) is the entrainment coefficient.
+#### Parameters:
+- **\( Z(t) \):** Tuning parameter aligning bio-signals with scalar waves.  
+- **\( \Psi(t) \):** Scalar wave potential.  
+- **\( \gamma \):** Entrainment coefficient.  
+- **\( B(t) \):** Biological signal.
+
 
 ---
 
