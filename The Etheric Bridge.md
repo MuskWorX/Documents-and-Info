@@ -62,13 +62,13 @@ Where:
 
 Biological signals are modeled as:
 
-\[ \displaystyle B(t) = A \sin(2\pi f t + \phi) \]
+![Bio-Signal Equation](https://latex.codecogs.com/png.latex?%5CHuge%20B%28t%29%20%3D%20A%20%5Csin%282%5Cpi%20f%20t%20%2B%20%5Cphi%29)
 
-Where:  
-- \( A \): Signal amplitude  
-- \( f \): Frequency  
-- \( \phi \): Phase offset
-  
+#### Parameters:
+- **\( A \):** Signal amplitude  
+- **\( f \):** Frequency  
+- **\( \phi \):** Phase offset  
+
 
 ### 4.3 Entrainment Dynamics with Z-Factor
 
